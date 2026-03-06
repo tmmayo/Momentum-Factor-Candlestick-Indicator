@@ -1,6 +1,6 @@
 # Candlestick Pattern Indicators and Momentum Signal Analysis
 
-Author: Meng Tian  
+Author: tmmayo  
 Date: February 2026  
 
 ## Project Overview
@@ -240,4 +240,4 @@ Potential extensions include:
 
 ---
 
-## Repository Structure
+
